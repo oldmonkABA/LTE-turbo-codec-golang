@@ -2,7 +2,7 @@
 Turbo code implementations in Go-lang (3GPP LTE)
 
 ## LTE turbo Codec Features 
-- Supports all block length
+- Supports all block lengths
 
 ## To do
 - Rate matching
